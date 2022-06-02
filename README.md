@@ -48,6 +48,6 @@ de manera fija, es decir, que en todas las ejecuciones sea el mismo basta con da
 
 Proyecto elaborado por los estudiantes:
 
-- [Ramírez Beltrán Berenice](https://github.com/BereBernal)
+- [Ramírez Bernal Berenice](https://github.com/BereBernal)
 - [Ramos Lira Estefania](https://github.com/Estefania-Ramos-Lira)
 - [Sánchez González Miguel Ángel](https://github.com/Miguel-Angel-Sanchez-Gonzalez)
